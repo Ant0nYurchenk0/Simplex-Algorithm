@@ -1,0 +1,17 @@
+C:\Users\anyur\Documents\prog\C#\Simplex Algorithm\bin\Debug\netcoreapp3.1\Simplex Algorithm.exe
+C:\Users\anyur\Documents\prog\C#\Simplex Algorithm\bin\Debug\netcoreapp3.1\Simplex Algorithm.deps.json
+C:\Users\anyur\Documents\prog\C#\Simplex Algorithm\bin\Debug\netcoreapp3.1\Simplex Algorithm.runtimeconfig.json
+C:\Users\anyur\Documents\prog\C#\Simplex Algorithm\bin\Debug\netcoreapp3.1\Simplex Algorithm.runtimeconfig.dev.json
+C:\Users\anyur\Documents\prog\C#\Simplex Algorithm\bin\Debug\netcoreapp3.1\Simplex Algorithm.dll
+C:\Users\anyur\Documents\prog\C#\Simplex Algorithm\bin\Debug\netcoreapp3.1\Simplex Algorithm.pdb
+C:\Users\anyur\Documents\prog\C#\Simplex Algorithm\obj\Debug\netcoreapp3.1\Simplex Algorithm.csproj.AssemblyReference.cache
+C:\Users\anyur\Documents\prog\C#\Simplex Algorithm\obj\Debug\netcoreapp3.1\Simplex_Algorithm.SimplexAlgorithm.resources
+C:\Users\anyur\Documents\prog\C#\Simplex Algorithm\obj\Debug\netcoreapp3.1\Simplex Algorithm.csproj.GenerateResource.cache
+C:\Users\anyur\Documents\prog\C#\Simplex Algorithm\obj\Debug\netcoreapp3.1\Simplex Algorithm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anyur\Documents\prog\C#\Simplex Algorithm\obj\Debug\netcoreapp3.1\Simplex Algorithm.AssemblyInfoInputs.cache
+C:\Users\anyur\Documents\prog\C#\Simplex Algorithm\obj\Debug\netcoreapp3.1\Simplex Algorithm.AssemblyInfo.cs
+C:\Users\anyur\Documents\prog\C#\Simplex Algorithm\obj\Debug\netcoreapp3.1\Simplex Algorithm.csproj.CoreCompileInputs.cache
+C:\Users\anyur\Documents\prog\C#\Simplex Algorithm\obj\Debug\netcoreapp3.1\Simplex Algorithm.dll
+C:\Users\anyur\Documents\prog\C#\Simplex Algorithm\obj\Debug\netcoreapp3.1\Simplex Algorithm.pdb
+C:\Users\anyur\Documents\prog\C#\Simplex Algorithm\obj\Debug\netcoreapp3.1\Simplex Algorithm.genruntimeconfig.cache
+C:\Users\anyur\Documents\prog\C#\Simplex Algorithm\obj\Debug\netcoreapp3.1\Simplex_Algorithm.About.resources
